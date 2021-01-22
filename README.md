@@ -1,2 +1,2 @@
-# royal-pug-proyecto
-Proyecto Fundamentos de Ingeniería de Software
+# Crear-un-Formulario-de-Registro-con-HTML-y-CSS-
+Creación de un simple y sencillo formulario de Registro con HTML y CSS
